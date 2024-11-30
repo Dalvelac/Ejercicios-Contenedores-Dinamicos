@@ -11,3 +11,7 @@ add_executable(Contenedores
         "Ejercicio 2/Contenedores.cpp"
         "Ejercicio 2/Contenedores.h"
         "Ejercicio 2/main.cpp")
+add_executable(Algoritmos
+        "Ejercicio 3/main.cpp"
+        "Ejercicio 3/Algoritmos.h"
+        "Ejercicio 3/Algoritmos.cpp")
